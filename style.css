@@ -59,6 +59,7 @@
 
 .first{
     text-align: center;
+    margin-top: 70px;
 }
 .fttls h4{
     font-size: 20px;
@@ -74,6 +75,7 @@
     display: flex;
     gap: 15px;
     justify-content: center;
+    margin-top: 20px;
 
 }
 .f-img1{
